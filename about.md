@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+# title: About
+# permalink: /about/
 ---
+If you don't know who I am (which let's face it is fairly likely, it's a big old world out there) I stream on Twitch as [MousePotato](https://twitch.tv/mousepotato), where I mostly play spacey games like [Elite: Dangerous](http://elitedangerous.com) and MMO games like [Elder Scrolls Online](http://elderscrollsonline.com).
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm also a proud member of [The Sovereignty](http://the-sov.com), a large community of like minded gamers with a focus of friendliness and good humanity. Each year we run the [Project 168](https://twitter.com/project168_) event and try to raise a bunch of monies for charity.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you want to know anything else, [come ask me](https://twitch.tv/mousepotato) - I'm a fairly open book.
